@@ -1,1 +1,10 @@
 
+# Site settings
+title: Historia de la Filosofía 4
+author:
+  name: Ernesto Priani 
+  email: 
+description: "Sitio del curso de Historia de Filosofía 4. Facultad de Filosofía y Letras. UNAM"
+
+# Build settings
+remote_theme: jekyll/minima
