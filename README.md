@@ -7,28 +7,30 @@ Para hacerlo estas son las instrucciones:
 
 
 
-# Heading One
+# Título Uno
 
-## Heading Two
+## Partida dos
 
-### Heading Three, etc.
+### Encabezado Tres, etc.
 
-Any text with no empty lines between will become a paragraph.
-Leave an blank line between headings and paragraphs.
-Font can be *Italic* or **Bold**.
-Code can be highlighted with `backticks`.
+Cualquier texto sin líneas vacías entre se convertirá en un párrafo.
+Deje una línea en blanco entre encabezados y párrafos.
+La fuente puede ser *Cursiva* o **Negrita**.
+El código se puede resaltar con 'backticks'.
 
-Hyperlinks look like this [GitHub Help](https://help.github.com/).
+Los hipervínculos se ven así [Ayuda de GitHub](https://help.github.com/).
 
-A bullet list is created using `*`, `+`, or `-`, like:
+Se crea una lista de viñetas con '*', '+' o '-', como:
 
-- dog
-- cat
-- muffin
+- perro
+- gato
+- magdalena
 
-A numbered list is created using a number + `.`, like:
+Se crea una lista numerada con un número + '.', como:
 
-1. one
-2. two
-6. three
-2. four
+1. uno
+2. dos
+6. tres
+2. cuatro
+
+
